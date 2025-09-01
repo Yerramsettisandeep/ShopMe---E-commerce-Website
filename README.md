@@ -69,4 +69,4 @@ npm run build
 npm run preview
 
 
-for reference i got taken from youtube: https://youtu.be/PsIA2w6eiPg?si=jGQOxNTYKj4H4MCh
+For my reference i watched this youtube tutorial: https://youtu.be/PsIA2w6eiPg?si=jGQOxNTYKj4H4MCh
